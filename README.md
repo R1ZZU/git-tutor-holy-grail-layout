@@ -1,6 +1,6 @@
 # Git Tutor Holy Grail Layout
 
-> test tutorial for [Git Tutor](https://github.com/R1ZZU/git-tutor)
+> test tutorial built with [Git Tutor](https://github.com/R1ZZU/git-tutor)
 
 ## Credits
 
